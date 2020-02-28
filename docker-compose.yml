@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  corewebapp:
+    image: corewebapp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - "8084:80"
+    environment: 
+      - ASPNETCORE_ENVIRONMENT=Production

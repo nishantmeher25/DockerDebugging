@@ -1,0 +1,38 @@
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.deps.json
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.json
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.dev.json
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.dll
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfo.cs
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.dll
+C:\Lynda\DockerExample\code-samples\01-docker-vscode\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.deps.json
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.json
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.dev.json
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.dll
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfo.cs
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.dll
+C:\Lynda\DockerExample\code-samples\01_07-vscode-debugging\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.deps.json
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.json
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.dev.json
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.dll
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfo.cs
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.dll
+C:\Users\Floyd Hilton\Documents\ExerciseFiles\02_03_DebugApplication\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\bower.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\bundleconfig.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.deps.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.dev.json
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.dll
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.pdb
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.csprojAssemblyReference.cache
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfoInputs.cache
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfo.cs
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.dll
+C:\Nishant - RoundPoint\PluralSight\Dockers\Exercise Files\02_03\End\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.pdb

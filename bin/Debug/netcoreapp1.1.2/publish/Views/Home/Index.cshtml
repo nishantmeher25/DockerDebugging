@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>OS Info</h2>
+        <ul>
+            <li>MachineName: @Environment.MachineName</li>
+            <li>OS Desription: @System.Runtime.InteropServices.RuntimeInformation.OSDescription</li>
+        </ul>
+    </div>
+    
+</div>

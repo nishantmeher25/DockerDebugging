@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="well col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Environment Info</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="form-group col-md-6">
+                        <label>MachineName</label>
+                        <p class="form-control-static">@Environment.MachineName</p>
+                        <p class="form-control-static">@Environment.MachineName</p>                        
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-6">
+                        <label>OS Desription</label>
+                        <p class="form-control-static">@System.Runtime.InteropServices.RuntimeInformation.OSDescription</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

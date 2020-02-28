@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "corewebapp",
+            "type": "coreclr",
+            "request": "launch",
+            "cwd": "/app",
+            "program": "/app/corewebapp.dll",
+            "sourceFileMap": {
+                "/app": "${workspaceRoot}/obj/Docker/publish/"
+            },
+            "pipeTransport": {
+                "debuggerPath": "/vsdbg/vsdbg",
+                "pipeProgram": "powershell",
+                "pipeCwd": "${workspaceRoot}",
+                "pipeArgs": [
+                    "-c",
+                    "docker exec -i corewebapp_corewebapp_1"
+                ]
+            }
+        }
+    ]
+}

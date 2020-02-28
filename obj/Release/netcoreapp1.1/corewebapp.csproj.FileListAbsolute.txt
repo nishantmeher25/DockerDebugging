@@ -1,0 +1,16 @@
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/bin/Release/netcoreapp1.1/corewebapp.deps.json
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.json
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.dev.json
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/bin/Release/netcoreapp1.1/corewebapp.dll
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/bin/Release/netcoreapp1.1/corewebapp.pdb
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/obj/Release/netcoreapp1.1/corewebapp.AssemblyInfo.cs
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/obj/Release/netcoreapp1.1/corewebapp.dll
+C:/Lynda/DockerExample/code-samples/01-docker-vscode/corewebapp/obj/Release/netcoreapp1.1/corewebapp.pdb
+/src/bin/Release/netcoreapp1.1/corewebapp.deps.json
+/src/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.json
+/src/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.dev.json
+/src/bin/Release/netcoreapp1.1/corewebapp.dll
+/src/bin/Release/netcoreapp1.1/corewebapp.pdb
+/src/obj/Release/netcoreapp1.1/corewebapp.AssemblyInfo.cs
+/src/obj/Release/netcoreapp1.1/corewebapp.dll
+/src/obj/Release/netcoreapp1.1/corewebapp.pdb

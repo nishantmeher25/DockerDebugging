@@ -1,0 +1,14 @@
+# Build App
+FROM microsoft/aspnetcore-build:1.1.2 as BUILD
+COPY . /src
+WORKDIR /src
+RUN dotnet restore && \
+dotnet publish corewebapp.csproj -c Release -o ./obj/Docker/publish
+
+# Build Image
+FROM microsoft/aspnetcore:1.1.2
+ARG source
+WORKDIR /app
+EXPOSE 80
+COPY --from=BUILD /src/WebApp/obj/Docker/publish .
+ENTRYPOINT dotnet corewebapp.dll
